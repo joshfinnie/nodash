@@ -4,13 +4,13 @@ A Node.js package that will check if a string contains a dash (-) or not.
 ## Install
 
 ```
-npm install nodash
+npm install no-dash
 ```
 
 ## Usage
 
 ```
-var nodash = require('nodash');
+var nodash = require('no-dash');
 
 nodash("does not include a dash");  // => true
 nodash("includes-dash");            // => false
