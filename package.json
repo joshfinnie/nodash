@@ -1,6 +1,6 @@
 {
   "name": "no-dash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js package that will check if a string contains a dash (-) or not.",
   "main": "lib/index.js",
   "jsnext:main": "src/index.js",
