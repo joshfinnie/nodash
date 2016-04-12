@@ -3,6 +3,8 @@ node_js:
   - "4.0"
   - "4.1"
   - "4.2"
+before_script:
+  - npm install -g babel-core@6.7.4
 notifications:
   email:
     recipients:
