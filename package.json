@@ -12,7 +12,7 @@
   "scripts": {
     "build": "./node_modules/.bin/babel src -d lib",
     "clean": "./node_modules/.bin/rimraf lib",
-    "prepublish": "npm run clean && npm run build",
+    "mypublish": "npm run clean && npm run build && npm publish",
     "test": "./node_modules/.bin/tape -r babel-register tests/**/*.js"
   },
   "repository": {
