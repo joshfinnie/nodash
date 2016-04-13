@@ -1,6 +1,8 @@
 # nodash
 A Node.js package that will check if a string contains a dash (-) or not.
 
+[![Build Status](https://travis-ci.org/joshfinnie/nodash.svg?branch=master)](https://travis-ci.org/joshfinnie/nodash)
+
 ## Install
 
 ```
